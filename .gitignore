@@ -59,3 +59,4 @@ target/
 # User modifications
 *.pem
 virtenvCC/
+*.pass
